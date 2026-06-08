@@ -2,6 +2,6 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,postgresql,mysql,docker,git,linux,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgresql,mysql,docker,git,html,css,javascript,typescript,react" />
 
 </div>
